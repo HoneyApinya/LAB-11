@@ -36,17 +36,18 @@
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-4.png">
 </p>
-![](https://github.com/HoneyApinya/LAB-11/blob/master/11.04.png?raw=true)
+
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void palen1_Paint(object sender, PaintEventArgs e)```
   <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-5.png">
 </p> 
-![](https://github.com/HoneyApinya/LAB-11/blob/master/11.05.png?raw=true)
+![](https://github.com/HoneyApinya/LAB-11/blob/master/11.04.png?raw=true)
 
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void palen2_Paint(object sender, PaintEventArgs e)```
    <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-6.png">
 </p>
+![](https://github.com/HoneyApinya/LAB-11/blob/master/11.05.png?raw=true)
 
 
 ### การระบายสีด้วย Path Gradient Brush

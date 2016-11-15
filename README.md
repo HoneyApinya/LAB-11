@@ -58,16 +58,18 @@
     <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-7.png">
 </p>
+![](https://github.com/HoneyApinya/LAB-11/blob/master/11.06.png?raw=true)
 
  * เพิ่ม Paint event ให้กับ Panel3
 * แก้ไข code ต่อไปนี้ในฟังก์ชัน ```private void palen3_Paint(object sender, PaintEventArgs e)```
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-8.png">
 </p>
-
+![](https://github.com/HoneyApinya/LAB-11/blob/master/11.06.png?raw=true)
 
 ###แบบทดสอบ 
 ให้เลื่อนจุดศูนย์กลางและปรับเปลี่ยนสี ให้ได้รูปดังนี้
 <p align = "center">
 <img src= "https://github.com/Desktop-Programming-Lab-2559/LAB-11/blob/master/imgs/lab11-9.png">
 </p>
+![](https://github.com/HoneyApinya/LAB-11/blob/master/11.07.png?raw=true)
